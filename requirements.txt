@@ -1,4 +1,10 @@
-streamlit
-scikit-learn
-nltk
-pandas
+Jupyter Notebook|
+python          |
+[               |
+scikit-learn    | To write code
+nltk            |
+pandas          |
+]               |
+VScode          |
+streamlit       * Deployment
+Github Account  *
