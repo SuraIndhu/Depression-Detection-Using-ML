@@ -36,6 +36,8 @@ The application was then tested locally to verify whether the frontend, model co
 
 Finally, the GitHub repository was connected to Streamlit Cloud for deployment. The application was deployed online using Streamlit, which made the project accessible through a web browser. This allowed users to use the depression detection system without installing the project locally.
 
+A text file containing both Depressed and Non-Depressed sample statements has been uploaded in this project(sample_text_to_test)for training and testing purposes. These text samples help the model classify whether the given input text belongs to depressed or non-depressed categories. The dataset includes realistic noisy text such as emojis, links, @mentions, and symbols to improve preprocessing and classification performance. This file is included for educational and project demonstration purposes.
+
 Conclusion
 
 This project demonstrates the complete workflow of building a Machine Learning-based web application, starting from environment setup, data preprocessing, model training, frontend development, testing, and final deployment. It can be used as a simple reference project for students who want to learn machine learning, NLP, and web deployment using Streamlit.
